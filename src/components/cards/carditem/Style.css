@@ -1,0 +1,29 @@
+.card {
+    background-color: #fff;
+    width: 250px;
+    border-radius: 5px;
+    background-color: rgb(226, 208, 208);
+}
+
+.card-image {
+    width: inherit;
+    border-radius: 5px 5px 0 0;
+}
+  
+.section {
+    border-bottom: 1px solid gray;
+    padding: 10px 15px;
+}
+
+.button-container {
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+  
+.like {
+    color: red;
+    width: 20px;
+    height: 20px;
+}
